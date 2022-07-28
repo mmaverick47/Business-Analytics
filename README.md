@@ -1,2 +1,3 @@
-# Business-Analytics
-Business analytics using Microsoft Excel
+# Business Analytics
+
+Business analytics methods using Microsoft Excel
