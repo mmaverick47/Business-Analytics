@@ -1,3 +1,3 @@
 # Week 1
 
-Laroe Chapters 1, 2, 3
+Larose Chapters 1, 2, 3
